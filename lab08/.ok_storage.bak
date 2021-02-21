@@ -1,0 +1,7 @@
+'insert-correct', (0, 70)
+'insert_into_all-correct', (512, 70)
+'subseqs-correct', (1024, 70)
+'inc_subseqs-correct', (1536, 70)
+'permutations-correct', (2048, 70)
+'Orders of Growth-correct', (2560, 70)
+'num_trees-correct', (3072, 70)
